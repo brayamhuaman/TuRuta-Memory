@@ -48,13 +48,13 @@ h1 {
 
 .game-board {
     display: grid;
-    grid-template-columns: repeat(4, 100px);
+    grid-template-columns: repeat(4, 80px);
     grid-gap: 10px;
 }
 
 .card {
-    width: 100px;
-    height: 100px;
+    width: 80px;
+    height: 80px;
     background-color: #F2388A;
     display: flex;
     align-items: center;
